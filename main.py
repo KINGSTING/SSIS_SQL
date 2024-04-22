@@ -4,6 +4,7 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import sqlite3
 
+
 class SSIS:
     def __init__(self):
         self.editing_student_id = None
